@@ -1,0 +1,3 @@
+Se modificó el captcha de la página.
+
+Corregimos la información errónea del historial.
